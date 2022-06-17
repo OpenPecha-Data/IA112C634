@@ -1,0 +1,49 @@
+id: IA112C634
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T13:41:06.439455'
+last_modified: '2022-06-17T13:41:06.439460'
+parser: null
+source_metadata:
+  title: Recitation Manuals
+  language: bo
+  description: 'A series of recitation manuals (bsnyen yig), instructional guides
+    to practising sādhanas in retreat:'
+  volume:
+    f711E:
+      title: Recitation Manual for the Natural Liberation of Suffering
+      base_file: f711E.txt
+      order: 1
+      parent: Longchen Nyingtik
+    f8B8D:
+      title: 'Elucidating the Body Maṇḍala: Clarifications on the Recitation Manual
+        of the Female Practice of the Queen of Great Bliss'
+      base_file: f8B8D.txt
+      order: 2
+      parent: Longchen Nyingtik
+    f0F01:
+      title: Main Recitation Manual for the Female Practice of the Queen of Great
+        Bliss
+      base_file: f0F01.txt
+      order: 3
+      parent: Longchen Nyingtik
+    f3744:
+      title: 'The Casket of Siddhis: A Recitation Manual for “Vidyādhara Assembly”
+        (Rigdzin Düpa)'
+      base_file: f3744.txt
+      order: 4
+      parent: Longchen Nyingtik
+    f7C71:
+      title: 'Ornament of the Vidyādharas’ Wisdom: A Recitation Manual for the Great
+        Compassionate One, Natural Liberation of Suffering (Dukngal Rangdrol)'
+      base_file: f7C71.txt
+      order: 5
+      parent: Longchen Nyingtik
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
